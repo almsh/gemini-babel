@@ -10,7 +10,6 @@
   "author": "Sergey Tatarintsev <tatarincev.serg@yandex.ua> (https://github.com/SevInf)",
   "license": "MIT",
   "dependencies": {
-    "babel-register": "6.x.x",
-    "ignore-styles": "5.x.x"
+    "@babel/register": "^7.0.0-beta.46"
   }
 }
